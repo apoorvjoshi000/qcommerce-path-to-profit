@@ -3,6 +3,8 @@
 A spatial dark-store digital twin that finds the cheapest path to profit in the
 quick-commerce markets that are losing money today.
 
+[![Live demo](https://img.shields.io/badge/live%20demo-try%20it%20now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://qcommerce-path-to-profit-3duyqepr4psujkg5iojdbb.streamlit.app/)
+
 [![CI](https://github.com/apoorvjoshi000/qcommerce-path-to-profit/actions/workflows/ci.yml/badge.svg)](https://github.com/apoorvjoshi000/qcommerce-path-to-profit/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -12,6 +14,8 @@ itself to published FY26 financials, and then solves for the lever combination
 that crosses breakeven in a tier-2 city. The headline finding, measured not
 asserted: in a sparse market the binding constraint is order density and rider
 batching, not basket size.
+
+**[Open the live war-game](https://qcommerce-path-to-profit-3duyqepr4psujkg5iojdbb.streamlit.app/)** and move the sliders: drop a tier-2 store to 340 orders/day and watch it bleed Rs 65 per order, then turn on two-order batching and add a small ad take to walk it back to breakeven, with the basket untouched.
 
 ## The problem it solves
 
